@@ -2,7 +2,7 @@
 #include <sys/time.h>
 #include <stdarg.h>
 
-static int write_log(log_id_t log_id, const char* tag, const char* msg) {
+int write_log(log_id_t log_id, const char* tag, const char* msg) {
     struct timeval tv;
     gettimeofday(&tv, NULL);
     char buffer[LOG_BUF_SIZE];

@@ -22,6 +22,7 @@ typedef enum {
 } event_type_t;
 
 // Function declarations, implemented in logger.c
+int write_log(log_id_t log_id, const char* tag, const char* msg);
 int log_message(log_id_t log_id, const char* tag, const char* fmt, ...);
 void log_event(event_type_t event, const char *details);
 

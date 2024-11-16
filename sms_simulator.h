@@ -1,6 +1,7 @@
 #ifndef SMS_SIMULATOR_H
 #define SMS_SIMULATOR_H
 
-void simulate_sms(int reciever_id);
+void send_sms();
+void receive_sms();
 
 #endif
