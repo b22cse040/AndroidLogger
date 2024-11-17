@@ -1,31 +1,42 @@
-#include "logger.h"
-#include <time.h>
+#include "call_simulator.h"
+#include "sms_simulator.h"
+#include "app_simulator.h"
+#include <stdio.h>
 #include <stdlib.h>
-
-void simulate_call();
-void simulate_sms();
-void simulate_app_usage();
+#include <time.h>
+#include <unistd.h>
 
 int main() {
-    srand(time(NULL));
-    // log_message(LOG_ID_CALL, "Main", "Starting call simulation...");
-    // log_message(LOG_ID_SMS, "Main", "Starting SMS simulation...");
-    // log_message(LOG_ID_APP_USAGE, "Main", "Starting app usage simulation...");
+    srand(time(NULL)); // Seed the random number generator
+    int receiver_id = rand() % 10000 + 1;
 
-    // Simulate a sequence of calls, SMS, and app usage
-    for (int i = 0; i < 5; ++i) {
-        int activity = rand() % 3;
-        switch (activity) {
-            case 0:
-                simulate_call();
-                break;
-            case 1:
-                simulate_sms();
-                break;
-            case 2:
-                simulate_app_usage();
-                break;
+    int simulation_time = 600; // Total simulation time in seconds
+    int interval = 1;           // Interval between events (in seconds)
+
+    int next_app_time = rand() % 100 + 1; // Next scheduled app event
+
+    for (int t = 0; t < simulation_time; t += interval) {
+        printf("Simulating at time %d seconds...\n", t);
+
+        // Handle call ringing logic based on simulation time
+        simulate_call(receiver_id, t);
+
+        // Simulate App Usage if it's time
+        if (t >= next_app_time) {
+            simulate_app_usage(receiver_id, t);
+            next_app_time = t + (rand() % 100 + 1); // Schedule next app usage randomly within 1–100 seconds
         }
+
+        // Print the receiver ID and busy status
+        int busy_status = is_user_busy();
+
+        printf("Receiver ID: %d, Busy Status: %s\n",
+               receiver_id,
+               busy_status ? "Busy" : "Available");
+
+        sleep(interval); // Wait for the next iteration
     }
+
     return 0;
 }
+
