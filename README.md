@@ -6,3 +6,8 @@ To run the code:
 ```gcc main.c simulation.c logger.c -o main```
 
 ```./main```
+
+To run the code in Pareen's change:
+ 
+```make```
+```./app_simulate```
