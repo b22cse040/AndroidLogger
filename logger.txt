@@ -1,0 +1,143 @@
+[1731999628.849949] [Log ID: 2] App Usage: Switched to app: Spotify at simulation time: 0 seconds.
+[1731999628.850011] [Log ID: 2] Simulation Event: Time: 0 seconds, Action: App Usage, Receiver ID: 6380
+[1731999628.850046] [Log ID: 0] Performance: Log ID: 0, Iteration completed in 0.000 seconds
+[1731999629.850285] [Log ID: 0] Simulation Event: Time: 1 seconds, Action: Call, Receiver ID: 6380
+[1731999629.850499] [Log ID: 1] Performance: Log ID: 1, Iteration completed in 0.000 seconds
+[1731999630.850766] [Log ID: 1] SMS: SMS received from contact number 452
+[1731999631.851112] [Log ID: 2] Simulation Event: Time: 2 seconds, Action: App Usage, Receiver ID: 6380
+[1731999631.851243] [Log ID: 2] Performance: Log ID: 2, Iteration completed in 0.000 seconds
+[1731999632.851370] [Log ID: 1] SMS: SMS received from contact number 9501
+[1731999633.851530] [Log ID: 1] Simulation Event: Time: 3 seconds, Action: SMS Received, Sender ID: 6380
+[1731999633.851592] [Log ID: 3] Performance: Log ID: 3, Iteration completed in 0.000 seconds
+[1731999634.851766] [Log ID: 3] Simulation Event: Time: 4 seconds, Action: Notification, Receiver ID: 6380
+[1731999634.851800] [Log ID: 4] Performance: Log ID: 4, Iteration completed in 0.000 seconds
+[1731999635.851903] [Log ID: 3] Simulation Event: Time: 5 seconds, Action: Notification, Receiver ID: 6380
+[1731999635.852027] [Log ID: 5] Performance: Log ID: 5, Iteration completed in 0.000 seconds
+[1731999636.852219] [Log ID: 1] SMS: SMS received from contact number 9451
+[1731999637.852525] [Log ID: 1] Simulation Event: Time: 6 seconds, Action: SMS Received, Sender ID: 6380
+[1731999637.852646] [Log ID: 6] Performance: Log ID: 6, Iteration completed in 0.000 seconds
+[1731999638.852905] [Log ID: 3] Simulation Event: Time: 7 seconds, Action: Notification, Receiver ID: 6380
+[1731999638.853030] [Log ID: 7] Performance: Log ID: 7, Iteration completed in 0.000 seconds
+[1731999639.853149] [Log ID: 1] SMS: SMS received from contact number 3583
+[1731999640.853404] [Log ID: 1] Simulation Event: Time: 8 seconds, Action: SMS Received, Sender ID: 6380
+[1731999640.853526] [Log ID: 8] Performance: Log ID: 8, Iteration completed in 0.000 seconds
+[1731999641.853739] [Log ID: 1] SMS: SMS received from contact number 5493
+[1731999642.854096] [Log ID: 1] Simulation Event: Time: 9 seconds, Action: SMS Received, Sender ID: 6380
+[1731999642.854224] [Log ID: 9] Performance: Log ID: 9, Iteration completed in 0.000 seconds
+[1731999643.854545] [Log ID: 3] Simulation Event: Time: 10 seconds, Action: Notification, Receiver ID: 6380
+[1731999643.854732] [Log ID: 10] Performance: Log ID: 10, Iteration completed in 0.000 seconds
+[1731999644.855012] [Log ID: 0] Simulation Event: Time: 11 seconds, Action: Call, Receiver ID: 6380
+[1731999644.855127] [Log ID: 11] Performance: Log ID: 11, Iteration completed in 0.000 seconds
+[1731999645.855417] [Log ID: 1] SMS: SMS sent to contact number 6061
+[1731999646.855801] [Log ID: 1] Simulation Event: Time: 12 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999646.855947] [Log ID: 12] Performance: Log ID: 12, Iteration completed in 0.000 seconds
+[1731999647.856231] [Log ID: 1] SMS: SMS sent to contact number 5757
+[1731999648.856630] [Log ID: 1] Simulation Event: Time: 13 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999648.856794] [Log ID: 13] Performance: Log ID: 13, Iteration completed in 0.000 seconds
+[1731999649.857090] [Log ID: 0] Call: Phone ringing for Receiver #6380. Timeout in 10 seconds.
+[1731999649.857261] [Log ID: 0] Call: Call picked up by Receiver #6380. Duration: 8 seconds.
+[1731999649.857289] [Log ID: 0] Simulation Event: Time: 14 seconds, Action: Call, Receiver ID: 6380
+[1731999649.857356] [Log ID: 14] Performance: Log ID: 14, Iteration completed in 0.000 seconds
+[1731999650.857637] [Log ID: 2] Simulation Event: Time: 15 seconds, Action: App Usage, Receiver ID: 6380
+[1731999650.857777] [Log ID: 15] Performance: Log ID: 15, Iteration completed in 0.000 seconds
+[1731999651.858078] [Log ID: 1] SMS: SMS sent to contact number 5228
+[1731999652.858496] [Log ID: 1] Simulation Event: Time: 16 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999652.858664] [Log ID: 16] Performance: Log ID: 16, Iteration completed in 0.000 seconds
+[1731999653.858947] [Log ID: 4] Simulation Event: Time: 17 seconds, Action: Screen Lock Toggle, Status: Unlocked
+[1731999653.859086] [Log ID: 17] Performance: Log ID: 17, Iteration completed in 0.000 seconds
+[1731999654.859362] [Log ID: 4] Simulation Event: Time: 18 seconds, Action: Screen Lock Toggle, Status: Unlocked
+[1731999654.859478] [Log ID: 18] Performance: Log ID: 18, Iteration completed in 0.000 seconds
+[1731999655.859754] [Log ID: 2] Simulation Event: Time: 19 seconds, Action: App Usage, Receiver ID: 6380
+[1731999655.859912] [Log ID: 19] Performance: Log ID: 19, Iteration completed in 0.000 seconds
+[1731999656.860192] [Log ID: 3] Simulation Event: Time: 20 seconds, Action: Notification, Receiver ID: 6380
+[1731999656.860364] [Log ID: 20] Performance: Log ID: 20, Iteration completed in 0.000 seconds
+[1731999657.860493] [Log ID: 4] Simulation Event: Time: 21 seconds, Action: Screen Lock Toggle, Status: Unlocked
+[1731999657.860597] [Log ID: 21] Performance: Log ID: 21, Iteration completed in 0.000 seconds
+[1731999658.860875] [Log ID: 1] SMS: SMS sent to contact number 9080
+[1731999659.861173] [Log ID: 1] Simulation Event: Time: 22 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999659.861286] [Log ID: 22] Performance: Log ID: 22, Iteration completed in 0.000 seconds
+[1731999660.861530] [Log ID: 2] App Usage: Screen locked at time 23
+[1731999660.861615] [Log ID: 4] Simulation Event: Time: 23 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999660.861635] [Log ID: 23] Performance: Log ID: 23, Iteration completed in 0.000 seconds
+[1731999661.861860] [Log ID: 1] SMS: SMS sent to contact number 7598
+[1731999662.862240] [Log ID: 1] Simulation Event: Time: 24 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999662.862374] [Log ID: 24] Performance: Log ID: 24, Iteration completed in 0.000 seconds
+[1731999663.862626] [Log ID: 4] Simulation Event: Time: 25 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999663.862733] [Log ID: 25] Performance: Log ID: 25, Iteration completed in 0.000 seconds
+[1731999664.862931] [Log ID: 1] SMS: SMS sent to contact number 6507
+[1731999665.863206] [Log ID: 1] Simulation Event: Time: 26 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999665.863395] [Log ID: 26] Performance: Log ID: 26, Iteration completed in 0.000 seconds
+[1731999666.863621] [Log ID: 2] Simulation Event: Time: 27 seconds, Action: App Usage, Receiver ID: 6380
+[1731999666.863722] [Log ID: 27] Performance: Log ID: 27, Iteration completed in 0.000 seconds
+[1731999667.863844] [Log ID: 1] SMS: SMS received from contact number 9049
+[1731999668.864199] [Log ID: 1] Simulation Event: Time: 28 seconds, Action: SMS Received, Sender ID: 6380
+[1731999668.864378] [Log ID: 28] Performance: Log ID: 28, Iteration completed in 0.000 seconds
+[1731999669.864609] [Log ID: 0] Simulation Event: Time: 29 seconds, Action: Call, Receiver ID: 6380
+[1731999669.864749] [Log ID: 29] Performance: Log ID: 29, Iteration completed in 0.000 seconds
+[1731999670.864852] [Log ID: 1] SMS: SMS received from contact number 757
+[1731999671.865127] [Log ID: 2] Simulation Event: Time: 30 seconds, Action: App Usage, Receiver ID: 6380
+[1731999671.865217] [Log ID: 30] Performance: Log ID: 30, Iteration completed in 0.000 seconds
+[1731999672.865439] [Log ID: 4] Simulation Event: Time: 31 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999672.865590] [Log ID: 31] Performance: Log ID: 31, Iteration completed in 0.000 seconds
+[1731999673.865715] [Log ID: 4] Simulation Event: Time: 32 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999673.865827] [Log ID: 32] Performance: Log ID: 32, Iteration completed in 0.000 seconds
+[1731999674.865962] [Log ID: 4] Simulation Event: Time: 33 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999674.866051] [Log ID: 33] Performance: Log ID: 33, Iteration completed in 0.000 seconds
+[1731999675.866260] [Log ID: 2] Simulation Event: Time: 34 seconds, Action: App Usage, Receiver ID: 6380
+[1731999675.866444] [Log ID: 34] Performance: Log ID: 34, Iteration completed in 0.000 seconds
+[1731999676.866552] [Log ID: 1] SMS: SMS sent to contact number 1580
+[1731999677.866901] [Log ID: 1] Simulation Event: Time: 35 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999677.867034] [Log ID: 35] Performance: Log ID: 35, Iteration completed in 0.000 seconds
+[1731999678.867354] [Log ID: 0] Simulation Event: Time: 36 seconds, Action: Call, Receiver ID: 6380
+[1731999678.867494] [Log ID: 36] Performance: Log ID: 36, Iteration completed in 0.000 seconds
+[1731999679.867596] [Log ID: 3] Simulation Event: Time: 37 seconds, Action: Notification, Receiver ID: 6380
+[1731999679.867700] [Log ID: 37] Performance: Log ID: 37, Iteration completed in 0.000 seconds
+[1731999680.867918] [Log ID: 2] Simulation Event: Time: 38 seconds, Action: App Usage, Receiver ID: 6380
+[1731999680.868065] [Log ID: 38] Performance: Log ID: 38, Iteration completed in 0.000 seconds
+[1731999681.868302] [Log ID: 2] Simulation Event: Time: 39 seconds, Action: App Usage, Receiver ID: 6380
+[1731999681.868490] [Log ID: 39] Performance: Log ID: 39, Iteration completed in 0.000 seconds
+[1731999682.868781] [Log ID: 1] SMS: SMS sent to contact number 8762
+[1731999683.869086] [Log ID: 1] Simulation Event: Time: 40 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999683.869242] [Log ID: 40] Performance: Log ID: 40, Iteration completed in 0.000 seconds
+[1731999684.869329] [Log ID: 4] Simulation Event: Time: 41 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999684.869385] [Log ID: 41] Performance: Log ID: 41, Iteration completed in 0.000 seconds
+[1731999685.869660] [Log ID: 2] Simulation Event: Time: 42 seconds, Action: App Usage, Receiver ID: 6380
+[1731999685.869786] [Log ID: 42] Performance: Log ID: 42, Iteration completed in 0.000 seconds
+[1731999686.869907] [Log ID: 2] Simulation Event: Time: 43 seconds, Action: App Usage, Receiver ID: 6380
+[1731999686.870063] [Log ID: 43] Performance: Log ID: 43, Iteration completed in 0.000 seconds
+[1731999687.870186] [Log ID: 3] Simulation Event: Time: 44 seconds, Action: Notification, Receiver ID: 6380
+[1731999687.870234] [Log ID: 44] Performance: Log ID: 44, Iteration completed in 0.000 seconds
+[1731999688.870326] [Log ID: 4] Simulation Event: Time: 45 seconds, Action: Screen Lock Toggle, Status: Locked
+[1731999688.870409] [Log ID: 45] Performance: Log ID: 45, Iteration completed in 0.000 seconds
+[1731999689.870531] [Log ID: 0] Simulation Event: Time: 46 seconds, Action: Call, Receiver ID: 6380
+[1731999689.870654] [Log ID: 46] Performance: Log ID: 46, Iteration completed in 0.000 seconds
+[1731999690.870811] [Log ID: 0] Simulation Event: Time: 47 seconds, Action: Call, Receiver ID: 6380
+[1731999690.870913] [Log ID: 47] Performance: Log ID: 47, Iteration completed in 0.000 seconds
+[1731999691.871120] [Log ID: 3] Simulation Event: Time: 48 seconds, Action: Notification, Receiver ID: 6380
+[1731999691.871198] [Log ID: 48] Performance: Log ID: 48, Iteration completed in 0.000 seconds
+[1731999692.871413] [Log ID: 0] Simulation Event: Time: 49 seconds, Action: Call, Receiver ID: 6380
+[1731999692.871561] [Log ID: 49] Performance: Log ID: 49, Iteration completed in 0.000 seconds
+[1731999693.871793] [Log ID: 1] SMS: SMS received from contact number 9876
+[1731999694.872115] [Log ID: 1] Simulation Event: Time: 50 seconds, Action: SMS Received, Sender ID: 6380
+[1731999694.872223] [Log ID: 50] Performance: Log ID: 50, Iteration completed in 0.000 seconds
+[1731999695.872465] [Log ID: 0] Simulation Event: Time: 51 seconds, Action: Call, Receiver ID: 6380
+[1731999695.872619] [Log ID: 51] Performance: Log ID: 51, Iteration completed in 0.000 seconds
+[1731999696.872749] [Log ID: 2] Simulation Event: Time: 52 seconds, Action: App Usage, Receiver ID: 6380
+[1731999696.872899] [Log ID: 52] Performance: Log ID: 52, Iteration completed in 0.000 seconds
+[1731999697.873119] [Log ID: 0] Simulation Event: Time: 53 seconds, Action: Call, Receiver ID: 6380
+[1731999697.873254] [Log ID: 53] Performance: Log ID: 53, Iteration completed in 0.000 seconds
+[1731999698.873519] [Log ID: 1] SMS: SMS received from contact number 217
+[1731999699.873914] [Log ID: 2] Simulation Event: Time: 54 seconds, Action: App Usage, Receiver ID: 6380
+[1731999699.874081] [Log ID: 54] Performance: Log ID: 54, Iteration completed in 0.000 seconds
+[1731999700.874226] [Log ID: 1] SMS: SMS sent to contact number 734
+[1731999701.874602] [Log ID: 1] Simulation Event: Time: 55 seconds, Action: SMS Sent, Receiver ID: 6380
+[1731999701.874752] [Log ID: 55] Performance: Log ID: 55, Iteration completed in 0.000 seconds
+[1731999702.874847] [Log ID: 2] App Usage: Screen unlocked at time 56
+[1731999702.874901] [Log ID: 4] Simulation Event: Time: 56 seconds, Action: Screen Lock Toggle, Status: Unlocked
+[1731999702.874912] [Log ID: 56] Performance: Log ID: 56, Iteration completed in 0.000 seconds
+[1731999703.875029] [Log ID: 4] Simulation Event: Time: 57 seconds, Action: Screen Lock Toggle, Status: Unlocked
+[1731999703.875136] [Log ID: 57] Performance: Log ID: 57, Iteration completed in 0.000 seconds
+[1731999704.875405] [Log ID: 0] Simulation Event: Time: 58 seconds, Action: Call, Receiver ID: 6380
+[1731999704.875522] [Log ID: 58] Performance: Log ID: 58, Iteration completed in 0.000 seconds
+[1731999705.875808] [Log ID: 0] Simulation Event: Time: 59 seconds, Action: Call, Receiver ID: 6380
+[1731999705.875926] [Log ID: 59] Performance: Log ID: 59, Iteration completed in 0.000 seconds
