@@ -10,6 +10,6 @@ To run the code:
 
 ```Updated_Code``` Branch:
 
-gcc main.c logger.c sms_simulator.c call_simulator.c app_simulator.c location_simulator.c screen_lock_simulator.c notification_simulator.c network_simulator.c -o log
+```gcc main.c logger.c sms_simulator.c call_simulator.c app_simulator.c location_simulator.c screen_lock_simulator.c notification_simulator.c network_simulator.c -o log```
 
-./log
+```./log```
